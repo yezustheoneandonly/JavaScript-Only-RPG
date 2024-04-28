@@ -22,6 +22,8 @@ Lizenz
 Die Urheberrechte liegen bei Niclas Basler, Daniel Wolthausen, Hoang Long und Stephan Hörichs. Jeder Missbrauch des Codes oder des Inhaltes hat juristische Konsequenzen
 
 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 This project was created as part of further training to become a web developer. It was the final project of the JavaScript module. The prerequisite was to write a program that is based only on JavaScript
 
 Prophecy's End: The Battle for Balance
