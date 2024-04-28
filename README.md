@@ -1,6 +1,6 @@
 # JavaScript-Only-RPG
 
-Dieses Projekt ist im Rahmen einer Weiterbildung zum Web Developer entstanden. Es war Abschlussprojekt des JavaScript Moduls. Vorraussetzung war ein Programm zu schreiben welches nur auf JavaScript basiert.
+Dieses Projekt ist im Rahmen einer Weiterbildung zum Web Developer entstanden. Es war Abschlussprojekt des JavaScript Moduls. Vorraussetzung war ein Programm zu schreiben welches nur auf JavaScript basiert. Dauer: 4 Tage
 
 # Prophecy's End: The Battle for Balance
 
@@ -24,7 +24,7 @@ Die Urheberrechte liegen bei Niclas Basler (https://github.com/Shadow-Nic), Dani
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-This project was created as part of further training to become a web developer. It was the final project of the JavaScript module. The prerequisite was to write a program that is based only on JavaScript
+This project was created as part of further training to become a web developer. It was the final project of the JavaScript module. The prerequisite was to write a program that is based only on JavaScript. Duration: 4 Days
 
 # Prophecy's End: The Battle for Balance
 
