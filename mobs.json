@@ -1,0 +1,41 @@
+{
+    "mobs": [
+        {
+            "id": 1,
+            "name": "Gnom",
+            "hp": 500,
+            "str": 30
+        },
+        {
+            "id": 2,
+            "name": "Trolle",
+            "hp": 250,
+            "str": 15
+        },
+        {
+            "id": 3,
+            "name": "Erdgolem lvl 1",
+            "hp": 250,
+            "str": 20
+        },
+        {
+            "id": 4,
+            "name": "Erdgolem lvl 2",
+            "hp": 400,
+            "str": 25
+        },
+        {
+            "id": 5,
+            "name": "Erdgolem lvl 3",
+            "hp": 650,
+            "str": 35
+        },
+        {
+            "id": 6,
+            "name": "Drachen",
+            "hp": 1000,
+            "str": 40
+        }
+
+    ]
+}
