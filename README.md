@@ -19,7 +19,7 @@ Ein einfaches Rollenspiel mit Pen and Paper Einfluss, welches über das Terminal
 - Installieren via Terminal Gib folgenden Code in die Console ein: npx prophecysend
 
 ## Lizenz:
-Die Urheberrechte liegen bei Niclas Basler, Daniel Wolthausen, Hoang Long und Stephan Hörichs. Jeder Missbrauch des Codes oder des Inhaltes hat juristische Konsequenzen
+Die Urheberrechte liegen bei Niclas Basler (https://github.com/Shadow-Nic), Daniel Wolthausen (https://github.com/Hunnitio), Hoang Long (https://github.com/Bubteck) und Stephan Hörichs https://github.com/yezustheoneandonly. Jeder Missbrauch des Codes oder des Inhaltes hat juristische Konsequenzen
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -43,4 +43,4 @@ A simple role-playing game with pen and paper influence that can be played via t
 - Installing via Terminal Enter this into the console: npx prophecysend
 
 ## License:
-The copyrights belong to Niclas Basler, Daniel Wolthausen, Hoang Long and Stephan Hörichs. Any misuse of the code or content has legal consequences
+The copyrights belong to Niclas Basler (https://github.com/Shadow-Nic), Daniel Wolthausen (https://github.com/Hunnitio), Hoang Long (https://github.com/Bubteck) and Stephan Hörichs https://github.com/yezustheoneandonly. Any misuse of the code or content has legal consequences
